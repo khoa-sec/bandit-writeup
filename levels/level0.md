@@ -2,8 +2,16 @@
 
 ## Goal
 
-Login using SSH
+Find the password.
 
 ## Solution
 
-Use ssh command to login to the server.
+Use ssh to connect to the server and read the password file.
+
+Command used:
+
+cat readme
+
+## Result
+
+Password found.
